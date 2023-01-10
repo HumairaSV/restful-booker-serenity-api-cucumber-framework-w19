@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Booking tags test","Provide a 415 status code when incorrect HTTP method is used to access resource","SUCCESS","2023-01-10T13:00:23.441Z[Europe/London]","0.0","3.92"
+"Booking tags test","This test will verify if a status code of 200 is returned for GET request","SUCCESS","2023-01-10T13:00:27.377Z[Europe/London]","0.0","2.08"
+"Booking tags test","This test will provide an error code of 404 when user tries to access an invalid resource","SUCCESS","2023-01-10T13:00:29.463Z[Europe/London]","0.0","1.07"

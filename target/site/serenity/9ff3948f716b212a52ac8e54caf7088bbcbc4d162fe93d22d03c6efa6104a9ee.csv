@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Booking tags test","Provide a 415 status code when incorrect HTTP method is used to access resource","SUCCESS","2023-01-10T13:00:23.441Z[Europe/London]","0.0","3.92"

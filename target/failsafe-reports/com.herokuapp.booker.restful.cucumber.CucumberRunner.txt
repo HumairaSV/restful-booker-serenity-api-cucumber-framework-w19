@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.herokuapp.booker.restful.cucumber.CucumberRunner
+-------------------------------------------------------------------------------
+Tests run: 24, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.992 sec - in com.herokuapp.booker.restful.cucumber.CucumberRunner
